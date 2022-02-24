@@ -1,0 +1,15 @@
+{
+    "name": "pdfkit/start",
+    "authors": [{
+        "name": "vpsbohra",
+        "email": "dbuglab@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "./classes"
+        }
+    },
+    "require": {
+        "mikehaertl/php-pdftk": "^0.11.0"
+    }
+}
